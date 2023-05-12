@@ -123,6 +123,16 @@ namespace ProyectoAdministradores.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_void_50 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-void-50", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap padrino_jpg {
             get {
                 object obj = ResourceManager.GetObject("padrino.jpg", resourceCulture);
