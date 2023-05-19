@@ -61,5 +61,10 @@ namespace ProyectoAdministradores
         {
             openChildFormInPanel(new FacturacionProductos());
         }
+
+        private void btnDashboard_Click(object sender, EventArgs e)
+        {
+            openChildFormInPanel(new Dashboard());
+        }
     }
 }
